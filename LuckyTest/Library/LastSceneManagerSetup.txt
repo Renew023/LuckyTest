@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/Text.unity
+- path: Assets/Scene/TXTfileOpen.unity
   isLoaded: 1
   isActive: 1
